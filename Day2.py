@@ -4,7 +4,7 @@
 # 3. paste the command: python3 Day2.py
 
 # TODO: Complete the following tasks.
-#  * Save the string, "Justin!!!!!!" as a variable called name.
+#  * Save the string, "Elise!!!!!!" as a variable called name.
 #  * Save the number 29 as a variables called age.
 #  * Save the float 5.8 as a variable called height.
 
