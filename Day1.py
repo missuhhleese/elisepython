@@ -13,3 +13,4 @@
 #  * Your age should appear in the terminal.
 #  * The year you were born should appear in the terminal.
 #  * CHALLENGE: The sentence: "How old am I? 29" should appear in the terminal BUT 29 cannot be a string.
+print("test")
