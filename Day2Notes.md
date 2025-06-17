@@ -8,25 +8,25 @@
 ## Question 1: What are some examples of variable types in Python?
 Type your answer in the space below.
 ```
-
+String type and numeric type
 ```
 
 ## Question 2: What are the two different types of numbers Python supports? How are they different?
 Type your answer in the space between the back-ticks (`). 
 ```
-
+Integers and floats
 ```
 
 ## Question 3: True or False: You can only use single quotes (') to define strings in Python.
 Type your answer in the space between the back-ticks (`).
 ```
-
+False. You can use single and double as long as you are consistent.
 ```
 
 ## Question 4: How would you create a variables called `four` with a value of the string `four`?
 Type the python command between the back-ticks.
 ```
-
+four = 'four' 
 ```
 
 # Go to Day2.py for further instructions!
